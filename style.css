@@ -1,0 +1,12 @@
+*{
+  border:solid 1px green; 
+}
+
+.navbar-nav{
+  margin-left:50%;
+  transform:translate(-50%,0%);
+}
+
+.container{
+  padding-top:70px;
+}
