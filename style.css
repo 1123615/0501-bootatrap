@@ -5,7 +5,7 @@
 font-family: "M PLUS Rounded 1c", sans-serif;
 }
 
-/* .navbar-nav{ */
+.navbar-nav{
   margin-left:50%;
   transform:translate(-50%,0%);
 }
